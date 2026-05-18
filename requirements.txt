@@ -1,0 +1,22 @@
+#geo
+geopandas>=0.14
+osmnx>=1.9
+h3>=3.7
+shapely>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+ 
+#data
+pandas>=2.0
+numpy>=1.25
+
+#visualization and ui
+folium>=0.16
+streamlit>=1.35
+streamlit-folium>=0.20
+branca>=0.7
+matplotlib>=3.8
+pydeck>=0.9
+
+#graph
+networkx>=3.2
